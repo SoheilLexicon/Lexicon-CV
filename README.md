@@ -10,14 +10,14 @@ The website also offers a separate, ATS-friendly PDF resume for job applications
 - Make navigation and important contact links easy to use.
 - Practise CSS layout techniques, typography, colours and accessibility.
 ## Features
-Required project features
+### Required project features
 - Header / Introduction: Name, professional title and profile photograph.
 - About Me: Professional profile and career goals.
 - Skills: Technical knowledge, networking fundamentals and ongoing learning.
 - Education: Academic qualifications and technical training.
 - Contact: Location, email and phone information.
 - Responsive design: Layout that adapts to different screen sizes.
-Additional features
+### Additional features
 - Work Experience: A timeline of previous roles and responsibilities.
 - Download CV: A downloadable, ATS-friendly PDF resume.
 - Professional links: GitHub, LinkedIn and Credly.
