@@ -23,14 +23,17 @@ The website also offers a separate, ATS-friendly PDF resume for job applications
 - Professional links: GitHub, LinkedIn and Credly.
 - Accessibility: Semantic sections, descriptive image text, keyboard focus styles and a skip link.
 ## Technologies Used
-Technology	Purpose
-HTML5	Semantic structure and website content
-CSS3	Styling, colours, typography and spacing
-CSS Grid	Main two-column CV layout
-Flexbox	Alignment of navigation, buttons and content
-Media Queries	Responsive desktop, tablet and mobile layouts
-Git & GitHub	Version control and project sharing
-GitHub Pages	Static website hosting
+
+| Technology | Purpose |
+|---|---|
+| HTML5 | Website structure and content |
+| CSS3 | Styling, colours and typography |
+| CSS Grid | Two-column CV layout |
+| Flexbox | Navigation and button alignment |
+| Media Queries | Responsive design for mobile and desktop |
+| Git & GitHub | Version control and project sharing |
+| GitHub Pages | Website hosting |
+
 
 
 This CV website uses plain HTML and CSS; React, Bootstrap and Tailwind CSS are not required for this project.
